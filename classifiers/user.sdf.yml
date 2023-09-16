@@ -1,0 +1,7 @@
+---
+classifier:
+  name: USER
+  description: 
+  labels:
+    - name: username
+    - name: profile-picture

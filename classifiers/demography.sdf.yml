@@ -1,0 +1,22 @@
+---
+classifier:
+  name: DEMOGRAPHY
+  labels:
+    - name: age-group
+    - name: gender-identity
+    - name: marital-status
+    - name: household-size
+    - name: household-income
+    - name: education-level
+    - name: occupation
+    - name: employment-status
+    - name: ethnicity
+    - name: language-spoken-at-home
+    - name: geographic-location
+    - name: geographic-location
+    - name: homeownership-status
+    - name: family-structure
+    - name: generation
+    - name: socioeconomic-status
+    - name: disability
+    - name: lifestyle-preferences

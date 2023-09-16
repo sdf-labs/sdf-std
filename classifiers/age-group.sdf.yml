@@ -1,0 +1,13 @@
+---
+classifier:
+  name: AGE-GROUP
+  description: 
+  labels:
+    - name: u13
+    - name: u18
+    - name: 18-24
+    - name: 25-34
+    - name: 35-44
+    - name: 45-54
+    - name: 55-64
+    - name: 65+

@@ -1,0 +1,20 @@
+---
+classifier:
+  name: RETENTION
+  description: 
+  labels:
+    - name: 30day
+    - name: 60day
+    - name: 90day
+    - name: 120day
+    - name: 1year
+    - name: 2year
+    - name: 3year
+    - name: 4year
+    - name: 5year
+    - name: 6year
+    - name: 7year
+    - name: 8year
+    - name: 9year
+    - name: 10year
+    - name: eternal

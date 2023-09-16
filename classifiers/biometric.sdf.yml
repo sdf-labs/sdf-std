@@ -1,0 +1,13 @@
+---
+classifier:
+  name: BIOMETRIC
+  labels:
+    - name: fingerprint
+    - name: dna
+    - name: gait
+    - name: iris
+    - name: retina
+    - name: voice
+    - name: vein
+    - name: signature
+    - name: palmprint

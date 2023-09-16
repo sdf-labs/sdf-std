@@ -1,0 +1,5 @@
+workspace:
+  edition: "1.1"
+  name: "tpch_lukas_example"
+  includes:
+    - path: classifiers/

@@ -1,0 +1,18 @@
+---
+classifier:
+  name: PII
+  description: 
+  labels:
+    - name: full_name
+    - name: first_name
+    - name: middle_name
+    - name: last_name
+    - name: gender
+    - name: birthdate
+    - name: age
+    - name: social-security-number
+    - name: phone
+    - name: email
+    - name: geolocation
+    - name: biometric
+    - name: hair-color

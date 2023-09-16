@@ -1,0 +1,11 @@
+---
+classifier:
+  name: INTERNET
+  description: 
+  labels:
+    - name: url
+    - name: ipv4
+    - name: ipv6
+    - name: mac-address
+    - name: domain-name
+    - name: response-code

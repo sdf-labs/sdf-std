@@ -1,0 +1,8 @@
+---
+classifier:
+  name: VEHICLE
+  labels:
+    - name: license-plate
+    - name: vin-number
+    - name: make
+    - name: model

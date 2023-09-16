@@ -1,0 +1,11 @@
+---
+classifier:
+  name: FINANCE
+  description: 
+  labels:
+    - name: card-number
+    - name: card-expiration
+    - name: bank-account-number
+    - name: bank-routing-number
+    - name: tax-id-number
+    - name: social-security-number
