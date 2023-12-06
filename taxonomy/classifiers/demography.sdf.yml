@@ -13,7 +13,6 @@ classifier:
     - name: ethnicity
     - name: language-spoken-at-home
     - name: geographic-location
-    - name: geographic-location
     - name: homeownership-status
     - name: family-structure
     - name: generation

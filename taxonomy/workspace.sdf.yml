@@ -1,5 +1,5 @@
 workspace:
   edition: "1.1"
-  name: "tpch_lukas_example"
+  name: "sdf_default_classifiers"
   includes:
     - path: classifiers/
